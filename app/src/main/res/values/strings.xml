@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intenciones07</string>
+    <string name="tituloventana">Intenciones</string>
+    <string name="txtbtn1">A pantalla</string>
+    <string name="txtbtn2">A Pagina</string>
+    <string name="tutuloventana2">Teclado</string>
+    <string name="btnBorrar"><![CDATA[<--]]></string>
+    <string name="btnLimpiar">C</string>
+</resources>
